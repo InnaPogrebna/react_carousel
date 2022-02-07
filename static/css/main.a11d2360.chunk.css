@@ -1,0 +1,2 @@
+.App{display:flex;align-items:center;flex-direction:column}.Carousel{width:100%}.Carousel__container{overflow-x:hidden;margin:0 auto}.Carousel__list{display:flex;list-style:none;margin:0;padding:0}.btnBlock,.Carousel__list,.controlBlock{text-align:center}.controlBlock{display:flex;padding-top:15px;justify-content:center}.controlBlock>label:not(:last-child){padding-left:15px}.controlBlock__infinity{text-align:center;padding-left:15px}
+/*# sourceMappingURL=main.a11d2360.chunk.css.map */
